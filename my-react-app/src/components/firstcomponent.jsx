@@ -1,5 +1,5 @@
 import React from "react";
-import Secondcomponent from "./First component"; // Updated import
+import Secondcomponent from "./firstcomponent"; // Updated import
 
 function Firstcomponent({ message }) {
   return (
